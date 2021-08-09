@@ -2,7 +2,6 @@
   "name": "app",
   "version": "0.0.1",
   "description": "Babelは無し!!",
-  "main": "index.js",
   "dependencies": {},
   "devDependencies": {
     "webpack": "^5.49.0",
